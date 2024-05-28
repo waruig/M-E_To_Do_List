@@ -7,3 +7,4 @@ Monitoring and Evaluation To do list - Create a simple to-do list manager using 
 ## Complete setup/installation instructions
 Installation of M&E To-do List
 ## License information with a copyright and date
+DAWG License
